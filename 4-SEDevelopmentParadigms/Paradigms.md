@@ -1,0 +1,14 @@
+# Paradigms
+
+## Description
+
+
+
+## Content
+
+
+
+## References
+
+
+
