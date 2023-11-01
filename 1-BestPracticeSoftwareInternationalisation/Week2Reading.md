@@ -6,6 +6,8 @@
 
 "The perfect size of subtitles, according to Ian Hamilton, should be at least 46px at 1080p."
 
+### Size
+
 ### Contrast
 
 ### Amount of Text
